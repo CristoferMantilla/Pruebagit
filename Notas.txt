@@ -1,4 +1,3 @@
 lista de participantes
-Cristofer
-Mantilla 
-Gaona
+- Cristofer Mantilla 
+- Elder Gamboa
